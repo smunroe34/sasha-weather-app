@@ -1,0 +1,85 @@
+.container {
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: white;
+}
+h1 {
+  color: #1ab0d6;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+  color: #1ab0d6;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.sat {
+  display: block;
+  margin: 0 auto;
+}
+h3 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+h4 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.row {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+search {
+  text-align: center;
+}
+#form-input {
+  text-align: center;
+  padding-bottom: 15px;
+}
+hr {
+  border: 2px solid black;
+}
+.input {
+  text-align: center;
+}
+.sun-icon {
+  font-size: 80px;
+  text-align: center;
+  color: yellow;
+}
+button {
+  background: #1ab0d6;
+  color: #fff;
+  font-size: 20px;
+  line-height: 10px;
+  padding: 16px 20px;
+  border-radius: 30px;
+  box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+  cursor: pointer;
+  color: #fff;
+  border: 4px solid #1a3cd6;
+}
+button:hover {
+  background: white;
+  color: #1ab0d6;
+  border: 1px solid #1a64d6;
+  transition: all 200ms ease-in-out;
+}
+#search-text-input {
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+}
+#status {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
